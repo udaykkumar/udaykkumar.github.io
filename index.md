@@ -2,9 +2,9 @@
 
 ---
 
-### My Hobbies
+### Off-Work
 
-[Project Euler](https://projecteuler.net/) 
+[Project Euler]( udaykkumar/PEular/ )
 <br><br>
 <img src="https://projecteuler.net/profile/k.uday.kumar.1985.png?raw=true"/>
 
