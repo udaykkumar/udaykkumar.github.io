@@ -2,15 +2,21 @@
 
 ---
 
-### Off-Work
+### Git DashBoard
+
+## Project 1:
+    - an attempt to solve project euler
 
 [Project Euler]( PEular )
-<br><br>
 <img src="https://projecteuler.net/profile/k.uday.kumar.1985.png?raw=true"/>
 
 ---
+
+## Project 2:
+    - a desperate attempt to get comfortable with cxx, stl, boost and templates
+
 [CPP]( CPP )
-<br><br>
+
 <img src="https://travis-ci.org/udaykkumar/CPP.svg?branch=master"/>
 <img src="https://coveralls.io/repos/github/udaykkumar/CPP/badge.svg?branch=master"/>
 
