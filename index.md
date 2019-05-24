@@ -11,9 +11,8 @@
 ---
 [CPP]( CPP )
 <br><br>
-<p> dirty work with cpp </p>
-<p style="font-size:11px">Build status <img src="https://travis-ci.org/udaykkumar/CPP.svg?branch=master"/></p>
-<p style="font-size:11px">Build Coverage <img src="https://coveralls.io/repos/github/udaykkumar/CPP/badge.svg?branch=master)](https://coveralls.io/github/udaykkumar/CPP?branch=master"/></p>
+<img src="https://travis-ci.org/udaykkumar/CPP.svg?branch=master"/>
+<img src="https://coveralls.io/repos/github/udaykkumar/CPP/badge.svg?branch=master"/>
 
 ---
 
