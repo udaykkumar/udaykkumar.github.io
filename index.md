@@ -4,7 +4,7 @@
 
 ### Off-Work
 
-[Project Euler]( udaykkumar/PEular/ )
+[Project Euler]( PEular )
 <br><br>
 <img src="https://projecteuler.net/profile/k.uday.kumar.1985.png?raw=true"/>
 
