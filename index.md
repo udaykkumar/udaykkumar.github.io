@@ -4,10 +4,8 @@
 
 ### Git DashBoard
 
-## Project 1:
-    - an attempt to solve project euler
-
-[Project Euler]( PEular )
+###### Project 1:[Project Euler]( PEular )
+    An attempt to solve [project euler](https://projecteuler.net) current progress is restricted 
 <img src="https://projecteuler.net/profile/k.uday.kumar.1985.png?raw=true"/>
 
 ---
