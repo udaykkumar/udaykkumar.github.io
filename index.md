@@ -2,6 +2,11 @@
 
 ---
 
+### Internal
+
+[Project Euler](https://projecteuler.net/)
+<img src="https://projecteuler.net/profile/k.uday.kumar.1985.png"/>
+
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
